@@ -51,7 +51,7 @@ Stacked bar plot showing the proportion of women in the survey that have had a c
 Stacked bar plot showing the proportion of women that knew of methods of treatment for various illnesses. (A) Type of treatment that is known (modern, none, traditional) in 1986, (B) type of treatment that is known (modern, none, folkloric,traditional) in 1996, (C) treatment type USED in 1986, and (D) treatment type used in 1996.
 
 ## References
-Arruda, J. M., Rutenberg, N., Morris, L., Ferraz, E. A., & Sociedade Civil Bem-Estar Familiar no Brasil, B. (1987). Pesquisa Nacional Sobre Sa˙de Materno-Infantile Planejamento Familiar Brasil 1986. Retrieved from Rio de Janeiro, Brasil: http://dhsprogram.com/pubs/pdf/FR4/FR4.pdf
-DHS. Demographic and health surveys. Retrieved from https://dhsprogram.com/
-Sociedade Civil Bem-Estar Familiar no Brasil, B., & Macro, I. (1997). Brasil Pesquisa Nacional Sobre Demografia e Sa˙de 1996. Retrieved from Calverton, Maryland, USA: http://dhsprogram.com/pubs/pdf/FR77/FR77.pdf
+[1] Arruda, J. M., Rutenberg, N., Morris, L., Ferraz, E. A., & Sociedade Civil Bem-Estar Familiar no Brasil, B. (1987). Pesquisa Nacional Sobre Sa˙de Materno-Infantile Planejamento Familiar Brasil 1986. Retrieved from Rio de Janeiro, Brasil: http://dhsprogram.com/pubs/pdf/FR4/FR4.pdf
+[2] DHS. Demographic and health surveys. Retrieved from https://dhsprogram.com/
+[3] Sociedade Civil Bem-Estar Familiar no Brasil, B., & Macro, I. (1997). Brasil Pesquisa Nacional Sobre Demografia e Sa˙de 1996. Retrieved from Calverton, Maryland, USA: http://dhsprogram.com/pubs/pdf/FR77/FR77.pdf
 
