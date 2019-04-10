@@ -1,4 +1,4 @@
-# A Comparison of Family Health Practices in Brazil in 1986 and 1996
+# A Comparison of Women's Health Practices in Brazil in 1986 and 1996
 ## General Information
 ### Project Author
 #### Name
